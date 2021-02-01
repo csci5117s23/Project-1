@@ -1,6 +1,6 @@
 # Module 2 Group Assignment
 
-CSCI 5117, Fall 2018, [assignment description](https://canvas.umn.edu/courses/217951/pages/project-1)
+CSCI 5117, Spring 2021, [assignment description](https://canvas.umn.edu/courses/217951/pages/project-1)
 
 ## App Info:
 
