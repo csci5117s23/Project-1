@@ -1,12 +1,12 @@
 # Module 1 Group Assignment
 
-CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/291031/pages/project-1)
+CSCI 5117, Spring 2023, [assignment description](https://canvas.umn.edu/courses/355584/pages/project-1)
 
 ## App Info:
 
 * Team Name: TODO
 * App Name: TODO
-* App Link: <https://TODO.heroku.com/>
+* App Link: <https://TODO.com/>
 
 ### Students
 
